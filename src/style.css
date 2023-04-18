@@ -47,3 +47,7 @@
     object-fit: cover;
     height: 200px;
 }
+
+.modal-title {
+    font-family: 'Pacifico', cursive;
+}
