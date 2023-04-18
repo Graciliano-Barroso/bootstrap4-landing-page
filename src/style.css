@@ -14,8 +14,8 @@
     font-family: 'Pacifico', cursive;
 }
 
-.texto-cor-especial {
-    color: darkred!important;
+#cor-titulo {
+    color: darkred;
 }
 
 .botao-cor-especial {
