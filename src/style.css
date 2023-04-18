@@ -26,3 +26,16 @@
 .borda-cor-especial {
     border-color: darkred;
 }
+
+.cards-receitas {
+    justify-content: center;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
+
+.card-imagem {
+    object-fit: cover;
+    height: 200px;
+}
