@@ -21,6 +21,14 @@
 .botao-cor-especial {
     background-color: darkred;
     color: white;
+    font-weight: 500;
+}
+
+.botao-cor-especial:hover {
+    background-color: white;
+    color: darkred;
+    font-weight: 500;
+    border-color: darkred;
 }
 
 .borda-cor-especial {
